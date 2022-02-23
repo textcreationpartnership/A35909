@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between two Oxford schollars</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35909</idno>
+            <idno type="STC">Wing D1343</idno>
+            <idno type="STC">ESTC R23858</idno>
+            <idno type="EEBO-CITATION">07916136</idno>
+            <idno type="OCLC">ocm 07916136</idno>
+            <idno type="VID">40412</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40412)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1205:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between two Oxford schollars</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.H. and T.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cover title.</note>
+                  <note>Reproduction of original in the Christ Church.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40412:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Between Two Oxford Schollars.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:40412:2"/>
+            <pb n="1" facs="tcp:40412:2"/>
+            <head>A DIALOGUE Between Two Oxford Schollars.</head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>WEll! I ſee thou art reſolv'd to leave us. I will not ſay, Go and be Hang'd; but go and turn Countrey-Parſon.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That's almoſt as bad, as the World goes now: But thanks to my Stars, I know a better Trick then that.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>It may be thou art fallen out with all Mankind, and intendeſt to turn Quack, or as they call it in the Country, Doctor.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No ſuch matter, the French can kill Men faſt enough; and for the Women, thou knoweſt my kindneſs—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But ſome of them have Lived too long; and there are others ſo miſera<g ref="char:EOLhyphen"/>ble that even Compaſſion will incline thee to help them out of the World. I can aſſure thee 'tis a profitable Calling, for whether thou doſt Kill or Cure, thy Fees will be put into thy Hand, and Ladies Bed-Chambers, thou knoweſt, are Comfortable places.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes, when they are found. But prethee ſpeak no more of it, for I am re<g ref="char:EOLhyphen"/>ſolv'd againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What then, art Thou reſolv'd for the Law; methinks Thou ſhould'ſt have too much Univerſity Learning, and too much Wit for that Profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And too much Honeſty— But I'le ſpare thee the pains of gueſſing, and tell thee in ſhort what my Condition is, and what I deſign. My Portion is all ſpent ſave Fifty pound; and with that I am reſolv'd for <hi>London,</hi> or ſome other Wealthy place, where Conventicles abound; and as a Man of a Tender Conſcience, and infinitely diſſatisfy'd with ſeveral things in the Church
+<pb n="2" facs="tcp:40412:3"/>of <hi>England,</hi> I will endeavour by ſome means or other to force my ſelf into an Acquaintance with ſome of their leading Men, and more eſpecially with ſome of the moſt Zealous and Powerful Women among them: And this point once gain'd, I doubt not, but before my ſtock is half ſpent, I ſhall receive a Call to be Paſtor of, or Holderforth in ſome Congregation or other— why do'ſt ſmile.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>At my Friend's deſign. And I cannot but admire how it came into thy Head. Thy Ability to manage ſuch a Deſign, I know very well, but how thou wilt diſpenſe with the Knavery of it I am yet to learn.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That's a ſmall matter. As the World goes, one muſt practiſe a little Knavery, or reſolve to leave the World. Doſt not know that Religious Cheats are Licens'd by a Law? And ſhall I live and dye without taking ad<g ref="char:EOLhyphen"/>vantage of it? Believe me Friend, Nature has fitted me pretty well to be one of the Godly Mountebanks, and a little Art, together with few Months Converſation with that ſort of People, will ſupply all Natures Defects. Can<g ref="char:EOLhyphen"/>not I put on, when I pleaſe, a grave and ſerious Countenance; and with Head depending on one Shoulder a little more than on the other, ſigh for the Iniquities of the Times, and the Corruptions of the Church? Cannot I wipe mine Eyes with the fair Pocket-Cloath, as if I wept for all your Abominations? Cannot I groan in Spirit as if ready to burſt with Grief and Compaſſion? And cannot I likewiſe when Time ſerves, and Company is diſpos'd to be kindly affected with it, ſmile and fleer as takingly? And what hurt is there in this? Sure I may uſe my own fee as I pleaſe, <hi>Et ſi populus vult decipi decipiatur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But where's your Conſcience all this while?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why, 'Tis to be pretended for all this, and ſeveral things more— And the pretence of Conſcience is a good Legal Warrant againſt all Oppoſers. In ſhort, Sir, I muſt live, and my Conſcience tells me ſo, and you muſt help me to live, it is my own, and neither you nor any other Mortal has any thing to do with my Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A pure Rogue! but what if my Conſcience force me to diſcover thy Roguery, when thou art too far engag'd in it to make a fair Retreat?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Behold the Blinders of Mankind, the folly of Humane Learning. How much better is one Dram of Grace then all the vain Philoſophy of the World? Let me tell thee my Friend, and I do it from the very bottom of my Bowels, That it is a very dangerous thing to ſuffer Conſcience to Command thee: Thou had'ſt better Command it— verily Beloved it is better to Command it: 'Tis good, 'tis good I ſay to bring it under the Yoke, Believe— Alas, that you will be ſo hard of belief! You break my Heart, indeed you do, by your Im<g ref="char:EOLhyphen"/>perſuadablems—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Go, Go thou Canting Raſcal to the Conventicle, and there be a Re<g ref="char:EOLhyphen"/>proach to thy Mother and to all Old Acquaintance.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:40412:3"/>
+               <speaker>B.</speaker>
+               <p>And go thou to ſome pitiful Country Vicaridge; or if thy Stars favour thee, get the biggeſt Parſonage in thy Country, and I'le wager my Head againſt thee, I'le get more Mony in one Year in a ſmall Congregation of the Saints, than thou wilt do in three—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But a little gotten in an Honeſt way and with an upright Heart, will be ſweeter then all thy Gains.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I intend not to diſpute with thee about Honeſty. It was much com<g ref="char:EOLhyphen"/>mended and but little practiſed, when the World was better than it is now. But I'le undertake to convince thee, that the Conventicling way is the only Thriving way, and the beſt way for me to take at this Time.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Do ſo then, I'le hear thee with a great deal of Patience, though I know there is nothing but Hyprocriſy at the Bottom—</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Firſt then, if I have a deſire to take Orders, in your way, I muſt to a Biſhop; and before the Good Man with two or three of his Presbyters will lay Hands upon me, I muſt under go an Examination in ſeveral points of Divinity, as they pleaſe. This muſt needs go much againſt me, becauſe I am well aware that I am but a ſmal Divine.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very Right.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then ſuppoſing I am ſo fortunate as to paſs Muſter, I cannot be or<g ref="char:EOLhyphen"/>dained before I have Subſcribed and taken ſome Oaths. Neither of which will paſs very well, if I am ever ſo little Popiſhly inclined, or Socinianiv'd, or have entertain'd any odd <hi>Crotchets</hi> in an any point of Religion, (and 'tis but ſeldom that great Wits are without ſome) or if I know my ſelf to be of a proud and pragmatical Temper, not very apt to own any Superiors, and Conſequently not very able to withſtand the Temptations I am like to meet withal to Faction, Sedition, and Rebellion.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Right ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But ſuppoſing me to ſwallow all this, and to be Ordain'd. Before I go to Exerciſe my Office, the Biſhops Secretary or Regiſter will preſent me with ſome Parchments and Wax, and theſe I muſt take for my Credentals; for which I muſt preſent him with ſome Crowns, which for a poor Man that knows the worth of Mony will go like ſo many Ounces of his beſt Bloud. Is not this, think you, a very fine and hopeful Beginning? And can a Man hope to thrive that takes not better ſteps at firſt ſetting out? But now all this I clearly eſcape in my deſign'd way. I have no need of any outward Call, one from within will do my Buſineſs; and a pack of Phraſes, without much Divinity, together with a Demure look, and ſome other Remarkable ſigns of Grace, either in my Face, or in the faſhion of my Cloaths, will do as much as all the Parchment and Wax in the World. By Virtue of which I can hold forth the Goſpel boldly, and pray out a Nonſenſical Sermon without fear of
+<pb n="4" facs="tcp:40412:4"/>any Spiritual Court; and Scratch and Tickle the Ears, the Itching Ears of my Godly Hearers, 'til they cry out, O precious Man! How ſweet and gracious are his Lips! O happy people upon whom the Honey of the Goſpel does drop ſo ſweetly, ſo abundantly! O that we were ſenſible of our Happineſs! O that we had but enlarg'd Mouths to receive it!— And beſides this, I am at Li<g ref="char:EOLhyphen"/>berty (O precious Liberty, who would part with it for a Kingdom!) to find fault with any thing my Superiors do. I can compare your Biſhops to <hi>Baal</hi>'s Prieſts, and your Civil Governors to thoſe that lick up the Spittle of the <hi>Whore of Babylon:</hi> I can bewail their Blindneſs, with all the ſigns of Grief and Compaſſion; and with all the Spight I am capable of entertaining, en<g ref="char:EOLhyphen"/>vy againſt their Malice to the Truth— And the more I ſpend my ſelf this way, the more enlarg'd towards me will the Hearts of my good people be, and the more open their Purſes,—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A ſubtle Rogue.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But then, in the ſecond place, in your way, when I have done what I have ſaid before, I cannot exerciſe the Office, which coſt me ſo dear, to any pur<g ref="char:EOLhyphen"/>poſe of Profit, without ſome Curacy, Vicaridge, or Parſonage; and after ei<g ref="char:EOLhyphen"/>ther of theſe I may Hunt till my Pocket is as Empty as 'twas when it came from the Taylor. I may poſſibly meet in a ſhort time with ſome rich Impro<g ref="char:EOLhyphen"/>priator, who receives two or three hundred pounds a year in Tyths, who may out of his great Chriſtian Charity, or generous Liberality vouchſafe to promiſe me Ten pound a year beſide a <hi>Sunday</hi> Pudding, for which I muſt wear out mine Eyes and Lungs, and humour the Imperious Gentleman as much as his Groom or Butler. Or the like Fortune may befall me under a Goodly Plu<g ref="char:EOLhyphen"/>raliſt, who will not favour me much more, though he may Condeſcend to call me Brother. But to put the beſt Caſe in ſhort, we will ſuppoſe a Vica<g ref="char:EOLhyphen"/>ridge or Perſonage to become Vacant, of an hundred pound value in common Eſtimation; And the poor painful Prieſt ſtanding fair in the opinion of the Neighbourhood is recommended to it; It is ten to one but there is an <hi>Abigail</hi> in the Patron's Houſe, that muſt be Married, or there is a Steward that has look'd after his Worſhips buſineſs at very ſmall wages for ſeveral years, and He muſt be gratified: or (as it often happens) the Gentlemans Hounds and Whores have weakn'd his Eſtate, and He muſt be dealt withal in way of Bargain and Sale; or if he be in a better Condition, it may be he has a fancy to ſome of the Churches Revenue, and thinks no Mony ſo ſweet as that which comes from the Clergy. And which of theſe ſoever it is, poor <hi>Pil-Garlick</hi> is but in ſorry Circumſtances. If there be nothing but Matrimony in the caſe, 'tis two to one he is undone. If there be not any thing of that, but all muſt be done by hard Silver or Gold, or ſomething Equivalent, as a Leaſe of Tyths, or the like— I am certainly Ruin'd, the Oath of Simony
+<pb n="5" facs="tcp:40412:4"/>will be a continual Scourge to me, and I may wear away my unhappy life be<g ref="char:EOLhyphen"/>fore I ſhall recover the mony <hi>I</hi> have paid or engag'd to pay—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This is not to be deni'd.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But ſuppoſe my good Fortune brings me a Preſentation to a Benefice in the moſt Honourable way; <hi>I</hi> muſt firſt with my Preſentation to the Biſhop; and if my Patrons Title and my own Teſtimonials be accepted of, <hi>I</hi> muſt again ſubſcribe and ſwear. And from him <hi>I</hi> am ſent to an Arch-Deacon or Rural Dean for Induction with wax and Parchment the value of Five or Six pounds; and this charge with that of Journeying will render the little Clergy-man as poor as <hi>Job.</hi> And when he comes to the long-wiſh'd for place, 'tis Five to One, he finds an old rotten Houſe ready to fall upon his Head, and the little ground about it laid waſt (for vacancys are generally beneficial to poor knaves) And a poor Diſconſolate Widdow, with ſeveral children about her, ready to dye at the ſight of Him, and all her Relations and friends come flocking about Him, to deſire him to compaſſionate her condition and to allow her One years profit at leaſt.— This is the joy that poor Booby muſt expect to meet with, when he knows very well that he has need of peoples charity Himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This may be too true.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But then, when I have got over all theſe Rubs, and begin to ſhow my ſelf in my Pariſh, and expect that ſomething of Mony ſhould come in unto me to defray my former charges; The Church-Wardens tell me, that they have a Sequeſtration upon my Living, and the Profits are at their Diſpoſal till I have taken it off; and withal, that a Conſiderable ſum of Mony has been diſ<g ref="char:EOLhyphen"/>burs'd by them, for the ſervice of the Cure during the vacancy, which muſt be repaid them. Which ſad news puts me upon another Journy and Coſts me a Pound or a Mark at leact. And when this is done I find my Living is in the Kings Books, and the Firſt Fruits muſt be Compounded for, and paid, which will make me much worſe then nothing (as they ſay) and I muſt live upon the little Credit I have gotten by my Title to the Beneſice.—But now, my freind, in my intended way, there is nothing of all this. If a Church will not call me, I can call a Church, and without a peny charge receive the profits thereof, being King, Biſhop, Arch-Deacon and every thing my ſelf. I ſhall be who<g ref="char:EOLhyphen"/>ly on the gaining ſide, and not one perſon the better for my preferment.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very good.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Let me then ſuppoſe my ſelf to be ſetl'd in my Vicaridge or Parſnage; I ſhall quickly feel my goings out, Beſides Tenths to be yearly paid to the King, and the charges of Viſitations by way of Procurations, Synodals and I know not what more; The charge of attending upon my ſuperiors when they are pleas'd to Command me; The charge of entertaining officers, and I know not how many ſorts of Men coming to me upon publick Buſineſs; I ſhall find a
+<pb n="6" facs="tcp:40412:5"/>charge to lye heavy upon me from my own Pariſh: Hoſpitality muſt be kept, and none of my pariſhoners muſt go from me with dry Lips, or empty Bellies. I muſt contribute equally with all of them to the maintenance of the Militia, the Poor and I know not what beſides; And upon ſome occation or other, ſome of them will be ſpunging on me every day.— What this may coſt me every Year let my friend compute if he pleaſes. I proceed to another charge, which poor Country Parſons do at this Time find more heavy then all. No Act of Parliament paſſes for Mony for the King but the Clergy are included in it. And tho they have no Repreſentatives, or votes by Repreſentatives in Parliment, (except you will ſay a Knight or two in a County are intruſted to Vote for them) and have not the leaſt power, either as Commiſſioners or Aſſeſſors in Le<g ref="char:EOLhyphen"/>ving of Taxes, which puts them in a worſe condition then the meaneſt Free-Holder that can expend Fourty ſhillings a year, and lays them open to the Malice and Spight of every Atheiſtical or Factious knave in the Neighborhood; they muſt pay equally with their Neighbours, whoſe Eſtates have no ſuch Bur<g ref="char:EOLhyphen"/>thens upon them, and are Eſtates of Inheritance: Equally did I ſay? I may ſay double to what they pay; for I am ſure upon good and certain grounds, that conſidering the charges they are at in the ways before mention'd, and that the far greateſt part of what they can claim as due to them by Law, muſt come from a Multitude of people, ſome of whom are poor and cannot pay, and o<g ref="char:EOLhyphen"/>thers Knaviſh and will not pay, except they be compell'd by Law, which as the Caſe ſtands with the Clergy is a Remedy worſe then the Diſeaſe; that the Coun<g ref="char:EOLhyphen"/>try man that has but Fourty pounds a year is in a far better condition than the parſon that has Fourſcore, tho he has that Fourty pound a year but for his Life, as the Parſon has his Fourſcore.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I can readily beleive all this; for 'tis but three days ſince I heard an Ho<g ref="char:EOLhyphen"/>neſt Country parſon ſay, That his Charge was ſo great upon the Accounts men<g ref="char:EOLhyphen"/>tion'd, that he did not know how to maintain himſelf and his family in any tolerable ſort, tho his Living was commonly reputed worth Sixſcore pound a year. And he told me and others very ſeriouſly, That by the late Aſſeſments which were made and deliver'd into the Commiſſioners upon Oath, He had paid and was to pay for Threeſcore pound a year, as much as ſome of his Neigh<g ref="char:EOLhyphen"/>bours did for Sixſcore pound of good Land of Inheritance. And which is more, He told us that a profeſt Papiſt in his Neighbourhood, who by the late Act of Three ſhillings in the pound was to pay double for his Eſtate, was not charg'd with ſo much as Himſelf for the ſame value in Tiths and a ſmall Glebe. But nothing troubl'd him ſo much as that after all this He and his poor Brethren who would gladly part with their Benefices, if it could be done lawfully, for leſs mony then Three hundred pound, ſhould be made Gentlemen and forc'd to pay Twenty ſhillings a peice as ſuch, tho ſome of them hardly know how to get bread to eat.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:40412:5"/>
+               <speaker>B.</speaker>
+               <p>Very well on my ſide, A wonderful encouragment indeed 'tis for a man to turn Country parſon: May I rather be a Hog-heard. But there is this of comfort in it for thoſe that look that way, that this may occaſion a great fall in the price of Preſentations. But let ſo much ſuffice for that, and let me pro<g ref="char:EOLhyphen"/>ceed to ſomething further, <hi>viz.</hi> That as I ſhall be quickly ſenſible of the charge I muſt be at in my new Parſonage, ſo when I come to demand my dues for the defraying of that charge, and the maintenance of my Family, I ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind it a hard matter to get them. If I be minded to farme out my Tiths, my Pariſhenours will bid me half the worth of them. If <hi>I</hi> will take them in kind, they will cheat me of little leſs then the half. And that which will vex me moſt of all, I muſt not dare to tell them of their injuſtice; for if I do I ſhall certain<g ref="char:EOLhyphen"/>ly have their ill will and as many miſcheivous Tricks plaid me as they can poſſi<g ref="char:EOLhyphen"/>ble. And ſhould I lay aſide all care for their Souls to watch their ſubtile practi<g ref="char:EOLhyphen"/>ſes, and do no more for them then any Lay Impropriator does where he is con<g ref="char:EOLhyphen"/>cern'd, they would be to hard for me in many things, ſo full of Cunning and Knavery are Clouted ſhoes—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, let them paſs; for <hi>I</hi> can eaſily think of many things relating to them and their Cheats which need not take up our Time. <hi>I</hi> deſire to have a ſhort account of the Advantage thou dream'ſt of in thy intended way.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Dream, do you ſay? you ſhall hear and Confeſs that <hi>I</hi> think and ſpeak nothing but Demonſtration. Suppoſe me then in my Congregation as their Paſtor, Teacher, Holderforth, call it what you pleaſe; you moſt know, that they will be a ſelect Number of people, (not like your Churches a Herd made up of few Sheep and a Multitude of Goats) moſt of them of the ſweet Female Sex (whoſe kindneſs towards the Spiritual Paſtors or Teachers is never leſs then their Zeal for what they teach them) ſcatter'd up and down, here and there in ſeveral of your Pariſhes. And for the better Edification of theſe precious Souls, it will be in my power to chuſe the place of my Reſidence or abode: And if <hi>I</hi> do not chuſe a Convenient place 'tis my own Fault. Inſtead of an old rotten Parſonage or Vicaridge Houſe, <hi>I</hi> promiſe my ſelf Forty, Fifty or Threeſcore good Houſes, where <hi>I</hi> ſhall be entertain'd with ſuch fulneſs of Delight, yea and Empire too (not like your pitiful Curates or Chaplains that muſt ſneak to the Groom and Butler) that even the Gentlemen that pretend to make a God of their Landlords will be apt to envy me. And if <hi>I</hi> reſolve to enter into the Matrimonial ſtate, <hi>I</hi> ſhall be ſtrangly unfortunate, if inſtead of an <hi>Abigail; I</hi> meet not with ſome Opulent Widdow, or ſome tender hearted Virgin of no ordinary Fortune, who with yearning Bowels will offer me her beſt Aſſiſtance and endeavours to <hi>build me a Houſe</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Excellent! 'Tis the Common fortune of a Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Suppoſe me then a Houſe-keeper; <hi>I</hi> dare promiſe my ſelf at leaſt an
+<pb n="8" facs="tcp:40412:6"/>hundred pound a year, which will be paid me Quarterly without the leaſt trou<g ref="char:EOLhyphen"/>ble or charge. I ſay I dare promiſe my ſelf ſo much, becauſe I am well aſſur'd that ſeveral Holdersforth about mine own ſize, receive two or three hun<g ref="char:EOLhyphen"/>dred pound a year. And all this, if I pleaſe, may be ſpent on my own dear ſelf; for beſides this, That no Obligation to Hoſpitality will lye upon me, and I ſhall be troubled with few Viſiters but ſuch as will bring their Enter<g ref="char:EOLhyphen"/>tainment with them, if they ſend it not before them; or will pay me richly for what I gave them; I ſhall not be liable to pay one Penny out of my In<g ref="char:EOLhyphen"/>come to Biſhops or Chancellors, to Church or Poor, no, nor to the King and Queen. And what a Happineſs, think you, will this be, to live under a Go<g ref="char:EOLhyphen"/>vernment, and to enjoy ſo much good under its Protection, and not part with one Farthing towards the ſupport of it! And pardon us (my Friend) if we think our ſelves much the Happier, that your poor Parſons, Vicars and Cu<g ref="char:EOLhyphen"/>rates, do with ſo much charge preſerve and nouriſh the Tree, under the Branches of which we ſit ſo ſafely, and enjoy our ſelves ſo pleaſantly.—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very pleaſant indeed. But methinks, to a generous Soul this ſhould be a very diſagreeable way of Living.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That's thy Ignorance Friend. For what can be more agreeable to thee than that which comes freely, which is ſo far from being Extorted, as your Tith Pigs and Geeſe are, that it is even forced upon us. And if the good Wife does rob from the Husband, or the Husband does ſubſtract a little from you to oblige and cheriſh us, it will not be the leſs but rather the more ſweet unto us. You never yet heard that the Iſraelites were offended with their Jewels and other fine things, becauſe they were the ſpoils of the <hi>Egyptians.</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very true; but prithee do not prophane Scripture: And tell me whe<g ref="char:EOLhyphen"/>ther thou muſt not be a ſlave to the Humours of thy precious People for all this; and how thou hopeſt to bring thy ſelf to it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Alas! That a Man ſhould live ſo long in the Univerſity, and have his Eyes and his Ears open to get ſome knowledge of the World, and yet ask ſuch a Queſtion, and have need of Inſtruction. I'le reſolve and inſtruct thee in ſew words, becauſe I muſt haſten from the upon neceſſary beſineſs. Know then, that they are generally people that will be eaſily managed, and it can hardly be imagined that they ſhould be otherwiſe, becauſe they have been Teacher-ridden for many Years. Their Underſtandings have been ſo baffl'd with Phraſes and Diſtinctions, that they have but little uſe of them: And for their Affections, I ſhall be at Liberty to turn my ſelf into any ſhape to Com<g ref="char:EOLhyphen"/>mand them; and I do not doubt in the leaſt but I ſhall have as Abſolute an Empire over them, as ever the Pope of <hi>Rome</hi> had over the beſt natur'd of our Forefathers. But if any ſhould prove more intractible or leſs ductible then others, I ſhall not be without ſome Tricks for 'em, which will not coſt
+<pb n="9" facs="tcp:40412:6"/>me half the pains as your Parſons are found to be at, to keep a poor Intereſt among their Pariſhioners— But whereas you ſpeak of my being a Slave, let me tell you in ſhort, that I know no greater Slaves than the <hi>Church of England</hi> Clergy are; and I have never thought of them of late, but the Fate of <hi>Iſſachar</hi> has come into my mind, <hi>a ſtrong</hi> and patient Creature <hi>Crouching down between two Burdens.</hi> On one ſide there are Laws or Acts of Parlia<g ref="char:EOLhyphen"/>ment, on the other Canons, and leſt theſe ſhould not pinch you enough, there comes ever and anon Declarations, Injunctions, Orders, and I know not what beſides, which muſt be ſubmitted to, or the poor Creature muſt ſuffer for it. There was a Time indeed when you were accounted one of the three Eſtates of the Realm, and the firſt and greateſt of the Three; but now you are ſwallow'd up by the other two, and you ſtand but for Cyphers in the Government. Your Privileges are daily leſſened; and your Burdens are daily increaſed; for beſides the Burdens which your Predeceſſors did bear, and you as Clergymen do bear ſtill, many of the Burdens of the Laity are laid upon you, whileſt you enjoy the Privileges of neither. You are made meer Tools for the Great ones to work their Deſigns by; and when they have Compaſſed their ends, they expoſe you to Contempt and Scorn, and encourage the vileſt of the people to tread you under foot. Your Power and Authority, as the Miniſters of Chriſt is next to nothing. You may talk in your Pulpits, as Mountebanks upon the Stage, but few think themſelves obliged to mind what you ſay. And as for your Cenſors which formerly were dreaded as Thun<g ref="char:EOLhyphen"/>der-bolts, they are generally contemn'd, and there is one bare word which will defend the vileſt and moſt ſcandalous men againſt them all. Some parts of your office (in ſome caſes at leaſt) you cannot execute according to your Rule, with<g ref="char:EOLhyphen"/>out galling your Conſciences; and yet if you fail to do it, there is a Cruel Whip ready for your Backs. And though your Principles are infinitely Ser<g ref="char:EOLhyphen"/>vicable to Government, Order. and Peace, yet you are treated rather like Ene<g ref="char:EOLhyphen"/>mies than Friends thereunto; as men of pernicious Principles and of no Con<g ref="char:EOLhyphen"/>ſcience. Whileſt others whoſe principles are big with Nonſence and Irreligion, and who draw Conſequences from them deſtructive to all Government, and productive of Anarchy and Confuſion, are favour'd and reſpected as Men of Conſcience, Sobriety, and Godlineſs, becauſe they ſcruple the wearing of a Surplice, Sir. If you know not theſe things, you know nothing. Judge then whether you may not be accounted Slaves. I wou'd add ſomething of the Freedom of the Conventicle Holders-forth— Free as the Light they are, and ſafe as the Sun in the Firmament: They are ty'd to no Rules but their own, and thoſe they may change as they pleaſe themſelves— But I muſt leave thee at preſent, for the Diſpatch of-Neceſſary buſineſs.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:40412:7"/>
+               <speaker>A.</speaker>
+               <p>One Word before thou goeſt, <hi>viz.</hi> That as Happy as the Conventi<g ref="char:EOLhyphen"/>clers are at preſent, the Caſe may quickly be altered with them and us.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes when the World becomes Wiſe. But that is not to be expected in this its declining State.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But there is, thou know'ſt, an Union deſigned between all diſagr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>g Parties: And good Men hope it will quickly be effected.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But they who have their Eyes in their Heads, know very well, that it will not be done by the ways of Condeſcenſion and Comprehenſion, except there be a Miraculous change wrought upon thr Diſſenting Parties. Make it once their Intereſt to Unite with you, and do ſomething to ſave their Honour, and then I ſhall entertain ſome Hope: But till this be done I'le prepare my ſelf for what I ſaid at firſt was my Deſign. And do thou turn Country Parſon or be—</p>
+            </sp>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> H. H. <hi>and</hi> T. J. <hi>near</hi> Temple-Bar.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
